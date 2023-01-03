@@ -33,8 +33,8 @@ Various sensors and actuators used in this project are `LDR sensor`. `Temperatur
 
 > Blynk App Interface           
 <br>    
-<img align="left" width="400x" height="800px" src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_2.jpg">
-<img align="right" width="400x" height="800px" src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_3.jpg">
+<img align="left" width="380px" height="800px" src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_2.jpg">
+<img align="right" width="380px" height="800px" src="https://github.com/ShubhamGupta577/IoT-based-Home-Automation/blob/main/Screenshots/Output_3.jpg">
 <br>  
 
  
